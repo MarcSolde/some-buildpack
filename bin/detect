@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # bin/detect <build-dir>
- 
+#sample texT 
 shopt -s nullglob
 files=(*.c)
 if (( ${#files[@]} > 0 )); then

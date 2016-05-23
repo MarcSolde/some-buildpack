@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # bin/release <build-dir>
- 
+#sample text 
 cat << EOF
 addons: []
 default_process_types: {
